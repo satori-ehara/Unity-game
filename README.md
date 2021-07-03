@@ -2,7 +2,8 @@
 迫りくる障害物をジャンプしてよけるだけのゲーム。<br>
 ステージは全部で20種類。<br>
 キーボードの↑キーでジャンプ、長押しで高く飛べるぞ！<br>
-複数のモードがある。
+複数のモードがある。<br>
+URL:https://drive.google.com/file/d/1-Jp6bUoItMwBYG4vmo4tPglwZkx5ZGcD/view?usp=sharing
 
 ### StepUpモード
 20種類のステージが大体難易度順になって出てくるぞ。<br>
